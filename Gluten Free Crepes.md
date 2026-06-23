@@ -5,10 +5,10 @@ times made:
 source: "[[The Elements of Baking]]"
 ---
 In a  #large bowl{}, whisk together @gluten free flour{110%g}, @granulated sugar{15%g}, @salt{1/4%tsp}, and @xanthan gum{1/4%tsp} (xanthan gum only if your flour doesn't have any).
-[- 3/4 cup + 3 tbsp flour, 1 tbsp sugar -]
+-- 3/4 cup + 3 tbsp flour, 1 tbsp sugar
 
 In a separate #bowl{}, whisk together @milk{280%g}(room temp), @eggs{2}(room temp), and @unsalted butter{15%g}(melted).
-[- 1 cup + 2 1/2 tbsp milk, 1 tbsp butter -]
+-- 1 cup + 2 1/2 tbsp milk, 1 tbsp butter
 
 Add approximately a third of the wet ingredients to the dry, whisking until you get a smooth paste-like batter with no clumps.
 

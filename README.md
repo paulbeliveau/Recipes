@@ -1,1 +1,1 @@
-This repo contains all of my [Cooklang](https://cooklang.org/) recipes. 
+This repo contains all of my [Cooklang](https://cooklang.org/) recipes. Markdown files instead of .cook as this is part of my obsidian vault.
